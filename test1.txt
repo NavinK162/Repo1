@@ -1,1 +1,3 @@
 This is the first text file for GIT.
+
+Adding new contents.
